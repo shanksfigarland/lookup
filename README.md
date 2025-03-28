@@ -31,11 +31,5 @@ A versatile Chrome extension designed to streamline security research, data anal
 
 ---
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/multi-purpose-lookup-tool.git
-
 ## License
 This project is licensed under the **MIT License**. See the LICENSE file for details.
